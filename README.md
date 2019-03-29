@@ -1,0 +1,6 @@
+＃淘宝-Bot
+该脚本使用python编写,selenium+chromewebdriver.
+chrome版本为71.0.3578.98.
+pyinstaller无法打包为exe???(各位大佬可以看一下,编码问题)
+更快的可能是模拟发包吧...本垃圾不会....
+希望各位大佬不吝赐教....
